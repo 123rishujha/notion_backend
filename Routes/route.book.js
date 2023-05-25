@@ -69,7 +69,3 @@ module.exports={
     bookRouter
 }
 
-
-/*
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDZiN2E3ODNkNDQ4ZDMxYzcyOGY0MzQiLCJpYXQiOjE2ODQ3NjUzNTEsImV4cCI6MTY4NjA2MTM1MX0.xmuk5G0bg3AwhfLipTfGkMi_QgWKOSr0KFPlrFUpcg4
-*/
